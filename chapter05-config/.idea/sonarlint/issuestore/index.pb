@@ -43,3 +43,7 @@ W
 'wei-config-client/wei-config-client.iml,7\d\7de00586acec70f7bc73fda322e833983a4c073c
 {
 Kwei-config-client/src/main/java/com/wei/controller/demo/DemoController.java,9\1\91d9ae50be9af9ed62df4fe0e4e1b3b2ae4e9eaa
+w
+Gwei-eureka-server/src/main/java/com/wei/WeiEurekaServerApplication.java,3\9\39fe3ef5646763758191900e5b33b9d307e34760
+J
+wei-consumer-feign/pom.xml,a\7\a772b2a0779418fa9c5b044e6ca9faf5babf04e5
