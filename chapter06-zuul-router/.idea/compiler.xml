@@ -13,7 +13,6 @@
         <module name="wei-eureka-server" />
         <module name="wei-gateway-zuul" />
         <module name="wei-service-provider" />
-        <module name="wei-springcloud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

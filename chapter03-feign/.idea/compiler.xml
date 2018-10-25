@@ -10,7 +10,6 @@
         <module name="wei-consumer-ribbon" />
         <module name="wei-eureka-server" />
         <module name="wei-service-provider" />
-        <module name="wei-springcloud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

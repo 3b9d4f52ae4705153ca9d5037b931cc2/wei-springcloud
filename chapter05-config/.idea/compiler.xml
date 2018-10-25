@@ -6,16 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chapter05-config" />
         <module name="wei-config-client" />
         <module name="wei-config-server" />
         <module name="wei-consumer-feign" />
         <module name="wei-consumer-ribbon" />
         <module name="wei-eureka-server" />
         <module name="wei-service-provider" />
-        <module name="wei-springcloud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="chapter05-config" target="1.7" />
       <module name="wei-config-client" target="1.7" />
       <module name="wei-config-server" target="1.7" />
       <module name="wei-consumer-feign" target="1.7" />
