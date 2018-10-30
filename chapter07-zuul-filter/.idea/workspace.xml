@@ -319,7 +319,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wei-springcloud" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -858,12 +858,12 @@
       <workItem from="1540446079280" duration="52000" />
       <workItem from="1540446176678" duration="11686000" />
       <workItem from="1540467564886" duration="25000" />
-      <workItem from="1540467786679" duration="65000" />
+      <workItem from="1540467786679" duration="225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109043000" />
+    <option name="totallyTimeSpent" value="109203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
